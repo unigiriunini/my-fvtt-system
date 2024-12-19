@@ -1,5 +1,5 @@
 {
-  "MY_FVTT_SYSTEM": {
+  "HOLY_GRAIL_WAR_TRPG": {
     "Ability": {
       "Str": { "long": "Strength", "abbr": "str" },
       "Con": { "long": "Constitution", "abbr": "con" },
@@ -11,31 +11,16 @@
     "Actor": {
       "BaseActor": {
         "Appearance": "Appearance",
-        "Note": "Note",
-        "Sex": "Sex",
-        "LawVersusChaosAlignment": "Law versus chaos Alignment",
-        "GoodVersusEvilAlignment": "Good versus evil Alignment",
-        "Statuses": {
-            "Strength": "Strength",
-            "Constitution": "Constitution",
-            "Dexterity": "Dexterity",
-            "Mana": "Mana",
-            "Luck": "Luck",
-            "NoblePhantasm": "Noble Phantasm",
-            "Value": "Base Value",
-            "Plus": "Plus Modifier",
-            "Ex": "EX Modifier"
-        }
+        "Note": "Note"
       },
       "Master": {
         "Name": "Name",
-        "Fame": "Fame",
         "Wish": "Wish"
       }
     },
     "SheetLabels": {
-      "Actor": "MyFVTTSystem Actor Sheet",
-      "Item": "MyFVTTSystem Item Sheet"
+      "Actor": "HolyGrailWarTRPG Actor Sheet",
+      "Item": "HolyGrailWarTRPG Item Sheet"
     },
     "Item": {
       "Spell": {
